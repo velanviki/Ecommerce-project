@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:4000/";
+const BASE_URL = "https://e-commerce-mi.herokuapp.com/";
 
 const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNWQxMGE1ZDA3NmVjYjM4OWE5NWI5YSIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1MDM2OTYyNywiZXhwIjoxNjUwNjI4ODI3fQ.ysnOvsOgss-iR9KDAygqOzQgz1SF_4DueWC_QfOQMi8"
 
